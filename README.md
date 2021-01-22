@@ -7,7 +7,7 @@
 <br>&#9729 And learning cloud technology, recently achieved aws certified Cloud Practitioner title.
 <br> Connect with me here <a href="https://www.linkedin.com/in/kanwarpreet-singh/" rel="nofollow">
   <img align="center" alt="Kp's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;"> </a>
-<img src="https://github.com/kanwarpreet11/kanwarpreet11/blob/main_edits/kanwarpreet11.jfif" alt="Kp Singh" width="200" height="200" align="right" HSPACE=”10” VSPACE=”10”>
+<img src="https://github.com/kanwarpreet11/kanwarpreet11/blob/main/kanwarpreet11.jfif" alt="Kp Singh" width="200" height="200" align="right" HSPACE=”25” VSPACE=”25”>
 </p> 
 
 <p>
